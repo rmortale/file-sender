@@ -3,3 +3,6 @@
 .idea
 .camel-jbang
 target
+mvnw
+mvnw.cmd
+.mvn
